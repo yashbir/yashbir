@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello fellow human 👋
+
+My name is Yashbir Singh and I am a software engineer/backend engineer. I am from New Delhi, India and currently working at Expedia.
 
 <!--
 **yashbir/yashbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
