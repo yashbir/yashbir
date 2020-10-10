@@ -1,6 +1,16 @@
 ### Hello fellow human 👋
 
-My name is Yashbir Singh and I am a software engineer/backend engineer. I am from New Delhi, India and currently working at Expedia.
+My name is [Yashbir Singh](yashbir.me/)  and I am a software engineer/backend engineer. I am from New Delhi, India and currently working at Expedia.
+
+```
+![](https://visitor-badge.glitch.me/badge?page_id=yashbir.yashbir)
+```
+
+**Languages and Tools**
+
+```
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+```
 
 <!--
 **yashbir/yashbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
