@@ -1,6 +1,6 @@
 ### Hello fellow human 👋
 
-My name is [Yashbir Singh](yashbir.me/)  and I am a software engineer/backend engineer. I am from New Delhi, India and currently working at Expedia. ![](https://visitor-badge.glitch.me/badge?page_id=yashbir.yashbir)
+My name is [Yashbir Singh](yashbir.me/)  and I am a software engineer/backend engineer. I am from New Delhi, India and currently working at [Loop](http://loopwork.co/). ![](https://visitor-badge.glitch.me/badge?page_id=yashbir.yashbir)
 
 **Languages and Tools**
 
