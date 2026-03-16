@@ -1,6 +1,7 @@
 ### Hello fellow human 👋
 
 **Coder**, _Funny_, Sarcastic
+
 Currently at [Loop](http://loopwork.co/).
 
 **Languages and Tools**
