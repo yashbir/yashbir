@@ -1,6 +1,7 @@
 ### Hello fellow human 👋
 
-My name is [Yashbir Singh](yashbir.me/)  and I am a software engineer. I am from New Delhi, India and currently working at [Loop](http://loopwork.co/).
+**Coder**, _Funny_, Sarcastic
+Currently at [Loop](http://loopwork.co/).
 
 **Languages and Tools**
 
